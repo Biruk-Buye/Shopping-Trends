@@ -20,7 +20,7 @@ In this project we want to achieve fully functioning tableau dashboard, which ca
 After we present the final dashboard, the management are expected to make some business decision that will help the company to generate 30 percent increase in sales by focusing more on products which have low performance in terms of making less revenue. In addition, we are expecting to save cost by 10 to 20 percent from areas performing not so well.
 
 #### Useful links:
-Bellow you will find the final dashboard on Tableau public.
+Here you will find the final dashboard on Tableau public.
 [Link Here](https://public.tableau.com/views/ShoppingTrend_17341781241310/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
