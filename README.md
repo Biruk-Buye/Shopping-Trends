@@ -13,7 +13,7 @@ The stakeholders involved in this project are managements, sales team, IT team, 
 
 ## End Goals
 In this project we want to achieve fully functioning tableau dashboard, which can give insights for management. This will help decision makers applying marketing campaigns for specific demographics based on the research in this project. With that the company might generate more revenue.
-
+<img width="1206" alt="Screenshot 2024-12-14 at 12 55 38" src="https://github.com/user-attachments/assets/2a1cd919-04d2-4563-b5e8-f2b0e4879c96" />
 
 ## Success criteria
 After we present the final dashboard, the management are expected to make some business decision that will help the company to generate 30 percent increase in sales by focusing more on products which have low performance in terms of making less revenue. In addition, we are expecting to save cost by 10 to 20 percent from areas performing not so well.
