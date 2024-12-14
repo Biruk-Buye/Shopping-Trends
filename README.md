@@ -1,8 +1,3 @@
-### Introduction
-Hi there, i’m Biruk from Amsterdam, and currently i am studying Data Analytics at https://www.ironhack.com/ 
-
-I am really enjoying learning this course and i am looking forward to have a carrier in this field. Bellow you can find the readme file about my mid project showing customers shopping trends for a retail shop.
-
 # Shopping-Trends
 ## About the project
 This project pinpoints shopping trends by identifying the best product sold on different seasons based on category of items among different demographics such as: age, gender, area,  etc…
