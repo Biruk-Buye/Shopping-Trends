@@ -22,7 +22,7 @@ After we present the final dashboard, the management are expected to make some b
 #### Useful links:
 Here you will find the final dashboard on Tableau public.
 
-https://public.tableau.com/views/ShoppingTrend_17341781241310/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[Your Link Here](https://public.tableau.com/views/ShoppingTrend_17341781241310/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 You can check out my other school projects in my github repo at https://github.com/Biruk-Buye?tab=repositories 
