@@ -1,7 +1,7 @@
 # Shopping-Trends
 
 ## Introduction
-This is a project, i have conducted analysis in Python to get insights on customers shopping trends for a fashion retail shop. I have cleaned and analyzed, 3900 customers data records with in three weeks deadline. I also Built performance dashboard in Tableau to visualize trends. A link for this interactive Tableau dashboard will be found at the bottom of this Readme page.
+This is a project i have conducted analysis in Python to get insights on customers shopping trends for a fashion retail shop. I have cleaned and analyzed, 3900 customers data records with in three weeks deadline. I also Built performance dashboard in Tableau to visualize trends. A link for this interactive Tableau dashboard will be found at the bottom of this Readme page.
 
 ## About the project
 This project pinpoints shopping trends by identifying the best product sold on different seasons based on category of items among different demographics such as: age, gender, area,  etc…
